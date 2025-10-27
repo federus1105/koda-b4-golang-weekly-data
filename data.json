@@ -8,5 +8,6 @@
 	{"id":7,"name": "Strawberry Mojito", "price": 15000, "type": "Minuman"},
 	{"id":8,"name": "Lime Lcy", "price": 25000, "type": "Minuman"},
 	{"id":9,"name": "Lemon Tea", "price": 20000, "type": "Minuman"},
-	{"id":10,"name": "Lecy Tea", "price": 20000, "type": "Minuman"}
+	{"id":10,"name": "Lecy Tea", "price": 20000, "type": "Minuman"},
+	{"id":11,"name": "Pizza", "price": 30000, "type": "Makanan"}
 ]
