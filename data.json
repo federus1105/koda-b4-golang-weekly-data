@@ -1,0 +1,12 @@
+[
+  {"id":1,"name": "Nasi Uduk", "price": 15000, "type": "Makanan"},
+	{"id":2,"name": "Ayam Bakar", "price": 25000, "type": "Makanan"},
+	{"id":3,"name": "Ayam Geprek", "price": 20000, "type": "Makanan"},
+	{"id":4,"name": "Americano", "price": 15000, "type": "Minuman"},
+	{"id":5,"name": "Hazelnut Latte", "price": 25000, "type": "Minuman"},
+	{"id":6,"name": "Sanger Expresso", "price": 20000, "type": "Minuman"},
+	{"id":7,"name": "Strawberry Mojito", "price": 15000, "type": "Minuman"},
+	{"id":8,"name": "Lime Lcy", "price": 25000, "type": "Minuman"},
+	{"id":9,"name": "Lemon Tea", "price": 20000, "type": "Minuman"},
+	{"id":10,"name": "Lecy Tea", "price": 20000, "type": "Minuman"}
+]
